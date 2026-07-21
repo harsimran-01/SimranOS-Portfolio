@@ -38,7 +38,7 @@ const BOOKMARKS = [
   },
   {
     name: "Portfolio",
-    url: "https://blog.harsimran.dev",
+    url: "https://simran-os-portfolio.vercel.app/",
     color: "from-purple-600 to-indigo-700",
     icon: <FaGlobe className="text-white text-3xl" />,
   },
